@@ -1,0 +1,20 @@
+{
+  "name": "recursive-prompt-chain",
+  "version": "1.0.0",
+  "description": "Chain recursive AI prompts with accumulated context across OpenAI, Claude, and Gemini",
+  "main": "src/index.js",
+  "keywords": [
+    "ai",
+    "recursive",
+    "prompt",
+    "chain",
+    "openai",
+    "claude",
+    "gemini",
+    "llm"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
